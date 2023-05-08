@@ -1,0 +1,13 @@
+name: crsstl
+version: 0.1.0
+
+authors:
+  - Will Pearl <wjp180001@utdallas.edu>
+
+targets:
+  crsstl:
+    main: src/crsstl.cr
+
+crystal: 1.8.1
+
+license: MIT
